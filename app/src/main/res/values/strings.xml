@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">doglist</string>
+
+    <string name="copy_retry">Retry</string>
+
+    <string name="dogs_overview_app_bar_title">Dogs We Love</string>
+    <string name="dogs_overview_getting_doggos">Getting your doggos</string>
+    <string name="dogs_server_no_response_message">The dogs were not able to hear you, please check your internet connection and try again.</string>
+    <string name="dogs_generic_error">Could not load your dogs</string>
+    <string name="dogs_almost_years">Almost %1$d %2$s</string>
+</resources>
